@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>
-        <exec.mainClass>com.mycompany.learning.Learning</exec.mainClass>
+        <exec.mainClass>Learning</exec.mainClass>
     </properties>
     <name>LearningJava</name>
 </project>

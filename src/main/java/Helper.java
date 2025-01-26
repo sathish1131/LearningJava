@@ -1,5 +1,3 @@
-package com.mycompany.learning;
-
 import java.util.ArrayList;
 import java.util.Objects;
 
